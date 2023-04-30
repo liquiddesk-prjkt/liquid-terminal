@@ -60,7 +60,7 @@ Transparency=false
 
 [Color5]
 Bold=false
-Color=225,30,225
+Color=178,24,178
 Transparency=false
 
 [Color5Intense]
@@ -90,12 +90,12 @@ Transparency=false
 
 [Foreground]
 Bold=false
-Color=24,240,24
+Color=236,236,236
 Transparency=false
 
 [ForegroundIntense]
 Bold=true
-Color=203, 236, 234
+Color=233,233,233
 Transparency=false
 
 [General]
